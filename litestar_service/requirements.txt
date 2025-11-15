@@ -1,0 +1,6 @@
+litestar==2.12.1
+granian==1.5.1
+sqlalchemy[asyncio]==2.0.36
+aiosqlite==0.20.0
+pydantic-settings==2.4.0
+uvicorn==0.38.0
